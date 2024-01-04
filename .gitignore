@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Distribution directory
+dist/
+ 
+# Docker
+Dockerfile
+docker-compose.yml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Yarn
+yarn-error.log
+yarn.lock
+
+# Visual Studio Code
+.vscode/
+
+# MongoDB data directory
+/data/db
